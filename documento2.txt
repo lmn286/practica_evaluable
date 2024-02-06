@@ -1,7 +1,4 @@
-hola Gema
-he hecho bien el clonaasdfgsddo del repositorio
-Voy a crear un conflicto
+
+he hecho bien el clonado del repositorio
 Tengo que sacar buena nota en esta practica
 Me queda poco para terminar
-Otra linea
-Final de fichero
