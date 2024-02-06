@@ -14,6 +14,8 @@ git log -- oneline. Te muestra el código de cada commit. Para ver cuántos comm
 
 git commit -m → “Añadir mensaje “cuándo hacemos el commit
 
+ls o ls -la --> para ver los ficheros.
+
 git config -- global  Para configurar el nombre de usuario en git en todos los proyectos, configura el email también.
 
 git show → te muestra lo que has hecho con commit
